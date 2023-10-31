@@ -1,17 +1,19 @@
     [
         {
         "id" : 4,
-        "title" : "팬텀 GT2 다이내믹 핏 엘리트 FG",
-        "imgUrl" : "img/nike/nike4.jpg",
-        "content" : "남녀공용 잔디 클리트 축구화",
-        "price" : 309000
+        "title" : "앙고라 니트 워머 블루",
+        "imgUrl" : "/img/추천상품더보기_6.jpg",
+        "orgprice" : "45,0000원",
+        "price" : "40,500원",
+        "sale" : "10% 할인"
         },
         {
         "id" : 5,
-        "title" : "덩크 로우 레트로 SE",
-        "imgUrl" : "img/nike/nike5.jpg",
-        "content" : "남성신발",
-        "price" : 139000
+        "title" : "클로버하트 니트 롱장갑 버터",
+        "imgUrl" : "/img/추천상품더보기_7.jpg",
+        "orgprice" : "39,000원",
+        "price" : "35,100원",
+        "sale" : "10% 할인"
         },
         {
         "id" : 6,
